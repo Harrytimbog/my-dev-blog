@@ -1,8 +1,12 @@
-import React from 'react'
+import { Fragment } from "react";
+import Hero from '../components/home-page/hero';
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <Fragment>
+      <Hero />
+      {/* <FeaturedPosts /> */}
+    </Fragment>
   )
 }
 
