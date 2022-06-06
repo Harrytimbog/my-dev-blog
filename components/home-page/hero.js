@@ -13,7 +13,7 @@ const Hero = () => {
         />
       </div>
       <h1>Hi, I'm Timi</h1>
-      <p>I blog about web development - especially about frameworks like Ruby on rails or React.</p>
+      <p>I blog about anything that comes to mind - my experiences in life or Programming</p>
     </section>
   )
 }
