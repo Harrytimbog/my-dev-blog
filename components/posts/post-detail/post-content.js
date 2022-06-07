@@ -32,7 +32,7 @@ const PostContent = (props) => {
             <Image 
               src={`/images/posts/${post.slug}/${image.properties.src}`} 
               alt={image.alt} 
-              width={600} 
+              width={500} 
               height={300} 
             />
           </div>
